@@ -23,7 +23,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Tank.hpp">
+    <ClInclude Include="Tank.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
